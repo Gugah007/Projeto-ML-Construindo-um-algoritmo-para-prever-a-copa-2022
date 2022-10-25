@@ -5,7 +5,15 @@ __pycache__/
 
 # C extensions
 *.so
-
+# Tirando alguns arquivos
+.ipynb_checkpoints
+json
+csv
+.DS_Store
+.gitattributes
+LICENSE
+logo-FIFA-world-cup-qatar-2022-vector-e-png
+Deploy do Modelo
 # Distribution / packaging
 .Python
 build/
